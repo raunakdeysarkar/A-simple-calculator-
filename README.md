@@ -1,2 +1,2 @@
 # A-simple-calculator-
-This is a simple calculator program built using Python.   It performs basic arithmetic operations like addition, subtraction, multiplication, and division.   Perfect for beginners learning Python fundamentals such as functions, input/output, and conditional statements.
+This is a simple calculator program built using Python.   It performs basic arithmetic operations like addition, subtraction, multiplication, division, square of a number. Perfect for beginners learning Python fundamentals such as functions, input/output, and conditional statements. Just a little tweak of Python, I have added error handling, so let's say you divide a number by zero, it will show an error message
